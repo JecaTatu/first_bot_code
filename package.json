@@ -1,0 +1,17 @@
+{
+  "name": "firstbotjs",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^6.2.0",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "leaguejs": "^2.1.3"
+  }
+}
